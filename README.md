@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Goulsan
 - 👀 I’m interested in rom building
-- 🌱 I’m currently learning github actions
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning html
 - 📫 How to reach me:
 -  mail: goulsan@outlook.com
 -  tg:   @winclippy
