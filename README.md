@@ -5,8 +5,6 @@
 - 📫 How to reach me:
 -  mail: goulsan@outlook.com
 -  tg:   @winclippy
-- 😄 Pronouns: he, they
-- ⚡ Fun fact: I like trains🚃
 
 <!---
 Goulsan/Goulsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
